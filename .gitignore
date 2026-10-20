@@ -1,0 +1,11 @@
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Python environment files
+.venv/
+__pycache__/
+
+# Do not upload the Excel dataset until sharing permission is confirmed
+data/*.xlsx
