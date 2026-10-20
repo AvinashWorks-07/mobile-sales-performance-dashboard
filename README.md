@@ -67,5 +67,5 @@ KPI calculations, geographic accuracy, slicer interactions, and refresh behavior
 
 **Avinash Patel**
 
-- GitHub: <https://github.com/AvinashWorks-07>
-- LinkedIn: <https://linkedin.com/in/avinash-patel-953b71303>
+- GitHub: https://github.com/AvinashWorks-07
+- LinkedIn: https://linkedin.com/in/avinash-patel-953b71303
